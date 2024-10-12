@@ -1,0 +1,6 @@
+hyperparam_tuning/
+Image/
+Mask/
+flood_segmentation_model.h5
+flood_segmentation_model_bu.h5
+metadata.csv
